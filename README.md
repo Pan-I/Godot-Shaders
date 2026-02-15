@@ -1,9 +1,8 @@
 # Godot-Shaders
 Practice Repo for Godot Shaders
 
-## First 2D Shader
+## [First 2D Shader](/godot-shaders/2d_shader.gdshader)
 
-[My First 2D Shader](/gifs/First%202D%20Shader.gif)
 <img src="https://github.com/Pan-I/Godot-Shaders/blob/main/gifs/First%202D%20Shader.gif?raw=true" alt="broken link" width="450"/>
 
 ```
